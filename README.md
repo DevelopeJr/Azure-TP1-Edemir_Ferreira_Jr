@@ -4,7 +4,7 @@ Repositório GitHub: https://github.com/DevelopeJr/Azure-TP1-Edemir_Ferreira_Jr
 
 Aplicação hospeda no Azure https://app-azure-tp1-edemirferreirajr.azurewebsites.net/
 
-=======================================================================================
+===========================================================
 
 
 Professor, por gentileza, para fins de controle máximo dos créditos, solicito me avisar pelo Teams, 
